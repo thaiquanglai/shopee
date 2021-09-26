@@ -1221,3 +1221,9 @@ body{
     color: rgb(109, 109, 109,0.6);
     margin: 0;
 }
+.signature{
+    text-align: center;
+}
+.imgsignature{
+    max-width: 300px;
+}
